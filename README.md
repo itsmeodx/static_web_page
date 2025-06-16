@@ -1,3 +1,3 @@
 # static_web_page
 
-[Live Preview](https://itsmeodx.github.io/static_web_page/index.html)
+[Live Preview](https://itsmeodx.github.io/inception/srcs/requirements/bonus/static/html/index.html)
